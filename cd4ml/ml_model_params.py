@@ -7,7 +7,7 @@ model_parameters = {
         "n_estimators": 100
     },
     "gradient_boosting": {
-        "n_estimators": 200,
+        "n_estimators": 5,
         "max_depth": 4
     },
     "decision_tree": {
